@@ -4,7 +4,7 @@ https://www.hackerrank.com/challenges/new-year-chaos/problem?isFullScreen=true&h
  */
 
 fun main() {
-    minimumBribes(arrayOf(1, 2, 3, 5, 4, 6, 7, 8)) // 1
+    minimumBribes2(arrayOf(1, 2, 3, 5, 4, 6, 7, 8)) // 1
     minimumBribes(arrayOf(4, 1, 2, 3)) // Too chaotic
     minimumBribes(arrayOf(2, 1, 5, 3, 4)) // 3
     minimumBribes(arrayOf(2, 5, 1, 3, 4)) // Too chaotic
